@@ -16,6 +16,40 @@ ecomm v-1.1.3
 
 
 student - red color button -
+------------------------------------------------------------
+git init 
+git config --global user.name "vikas"
+git config --global user.email "vikas@gmail.com"
+
+------------------------------------------------------------------------------------------
+
+project
+    git init
+    git add .
+    git status
+    git commit -m "some msg"
+    git remote add origin "path" (remote github path)
+    git push -u origin master
+
+    ---------------------
+    Branch
+
+    git Branch
+    git branch newbranch
+    git checkout newbranch
+
+    -------------------------------------
+
+    latest code 
+    git pull origin master/newbranch
+
+    -----------------------------------
+    pr- merge
+
+    git branch --merged
+    git merge newbranch
 
 
-
+    git checkout master\
+    git pull 
+    git push origin master
