@@ -1,0 +1,86 @@
+javascript syllabus
+1-Basics of js
+1.10 prerequiste 
+    -INPUT
+    -OUTPUT
+    -Conditionals -if else else if switch 
+    -Repeat -loops (for while do while for of for in for each)
+    -functions
+
+-Operators(arithmatic,relation,logical,unary)
+-functions 
+
+
+
+
+
+2-Advance js
+    -HOF
+    -callbacks
+    -CALLBACK HELL
+    -INVERSION OF CONTROL
+    -promises
+    -PROMISES HELL
+    -PROMISES CHAINING
+    -CLASS AND OBJECT
+    -oops(THIS NEW CONSTRUCTOR)
+    -Protoypes
+    -Prototypal inheritance
+    -__proto__
+
+    res- ecma international, mdn doc
+    -------------------------------------------------------------------------------------
+
+    javascript-
+
+    -----------------------------------------------
+    Date-23 jan,2024
+
+    JS- Fundamentals and Advance JS
+    Fundamentals- intro to js, variabless, condiitonals, loops, object, array, function, scope, closure,oops, new , this, 
+
+    JS DOM = DOM BOM API, LOCAL STOTAGE, FETCH, AXIOS,
+
+
+    Advance js -
+        -HOF
+        -CALL BACKS
+        -CALLBACK HELL
+        -INVERSION OF CONTROL
+        -PROMISES
+        -PROMISE HELL
+        -PROMISE CHAINING
+        -ASYN AWAIT
+        -ASYN BEHAVIOUR OF JS
+        -scope
+        -closure
+        -JS ENGINE internal 
+        -CONSTRUCTOR
+        -class and object
+        -inheritance
+        -prptotypes
+        -prptotypal inher'
+        -scopes
+        -closure
+        -coercion - type  casting
+
+
+
+-variabless
+-naming convention
+-conditional - if else elseif
+-loops
+-break continue
+
+---------------------------------------------------------
+
+
+
+
+
+
+    
+
+
+
+

@@ -1,0 +1,25 @@
+Javascript Syllabus 
+1- Basics/Fundamentals Javascript
+-JS intro
+-variables
+-conditionals (if else else if)
+-loops(for while do while for each )
+-function
+-array
+-object
+
+
+Advance js 
+-scopes
+-closures
+-oops(this new constructor)
+-class and object
+-inheritance
+-prototypes
+-prototypal inheritance
+-es 6 
+-iterators and generators
+
+------------------------------------------------------------------------------
+
+

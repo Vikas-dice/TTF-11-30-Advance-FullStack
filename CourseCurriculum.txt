@@ -1,0 +1,130 @@
+Syllabus 
+
+Pre- html css 1-2 project 
+
+-----------------------------------------------------------------
+Syllabus -
+    -Javascript
+    -Javascript DOM/BOM API
+    -Projects 
+-React -(props, hooks , context apis)
+    -Redux (State mgmt)
+
+Backend 
+    -Node 
+    -express
+    -orm (Mongoose, prime)
+    -DB (sql, nosql (mongodb))
+    -2 architecture - monolothic, micro sevices based 
+    -Mono - project
+    -microservices - project 
+
+    -------------------------------------------------------------------------------
+
+    Deployment -
+    -Linux 
+    -AWS
+    -EC 2 PM2 
+
+    --------------------------------------------------------------------
+
+    Devops - dev +operation 
+        -SDLC automate 
+        -Kubernetes
+        -docker 
+    ----------------------------------------------------------------------------
+
+    Core cs subjects - dbms , od, cn 
+
+    --------------------------------------------------------------------------------
+
+    DSA - Data sr=tructrues and algo 
+    (leetcode , codechef, codeforces )
+
+    ------------------------------------------------------------------------------------
+    System Design - LLD +HLD
+
+    -LLD 
+    -oops
+    -DESIGN PATTERNS 
+    -SOLID PRINCIPLES
+
+    ----------------------------------------------------------------------------------------------
+
+
+    JS Syllabus 
+    1- Js the language/basics/Fundamentals
+    2-Advance js 
+
+
+    1-Js the language
+        -Js intro
+        -variables
+        -ram architecture ,memory management
+        -heap memory and stack memory
+        -condiitonals (if else else if switch ternary)
+        -loops (for while do whilew for each for of etc etc)
+        -function (inbuilt and custom func)
+        -Data Tyeps (Primitive and ref type)
+        -array
+        -Array methiod(map filter reduce)
+        -Object 
+        -Object prop
+        -object methods (call apply bind)
+        -object destructure
+        -spread and rest op
+    ---------------------------------------------------------------------------------------
+
+    2- advance js 
+    -hof 
+    -call stack , event loo, internals of js code run
+    -Async behavior of js 
+    -block and non blocking code 
+    -Javascript run time engine - explore
+    -callbacks
+    -callbacks (issues)
+    -callback hell
+    -inversion of control
+    -Promises 
+    -Promises resolve and reject
+    -Promise chaining
+    -Asyn await 
+    -Brwser objects.methods
+    -Iterators and generators
+    -class and object
+    -oops 
+    -this keyword
+    -new
+    -constructor
+    -prototypes
+    -prototypal inheritance
+
+------------------------------------------------------------------------------------------------------------------
+Iteration 1 - JS jaldi niklnga -
+-----------projects (vanilla - html css js js dom)
+
+--------------------------------------------------------------------------------------------------------------------
+
+iteration 2 - before react 
+        -Gehri js 
+--------------------------------------------------------------------------------------------------------------------
+
+iteration 3 - before backend 
+            -super heavy js 
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

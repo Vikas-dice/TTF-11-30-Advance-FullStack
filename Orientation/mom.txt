@@ -1,0 +1,86 @@
+timings - 11:30-1:30
+
+prereq- html css bootstrap tailwind css sql wordpress js (loops, dom, async js - callbacks , promises , asyn await , event loop, message queue, js engine , )
+
+
+project - weather app, tic tac toe, github profile extract, password generator, 
+
+
+-------------------------------------------------------------------------------------------------
+syllabus 
+-*** javascript - mdn doc, ecma international documentation
+
+-ecma internation 2019
+-mdn doc
+
+-js dom 
+    - events (mouse , keyboard etc)
+
+-react (basics , advance )
+
+---------------------------------------------------------------------
+js revise (advance js -)
+
+-linux
+    -aws virtual machine
+    
+
+
+
+
+
+
+backend
+node js-file io streams 
+mongodb-
+express
+
+
+
+deployment
+aws
+devops(k8s,docker)
+
+
+testing
+unit case, junit , jmocha
+---------------------------------------------------------------------
+vs code settings- line wrap on, extension(liver server, code runner, prettier )
+
+----------------------------------------------------------------------------------------
+
+Mern dev - 
+
+
+React heavy 
+
+backend - heavy 
+
+full fledged projects (lms , twitter full stack clone )
+
+
+
+------------------------------------------------------------------------------------------------
+
+dsa(leetcode 100)+react -6lpa
+dsa(leetcode 250)+mern(basic)- 12lpa
+dsa(leetcode 350)+mernn +aws+devops+os+cn+dbms-15-18
+dsa(leetcode 500-600)-system design(oops,lld)mern=
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
