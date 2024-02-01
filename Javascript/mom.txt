@@ -73,6 +73,17 @@ javascript syllabus
 -break continue
 
 ---------------------------------------------------------
+Date -30jan,2024
+    variables
+    conditionals
+    loops
+    break continue
+    dry run
+
+--------------------------------------------------------------------------
+
+
+
 
 
 
