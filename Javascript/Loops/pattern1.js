@@ -202,27 +202,152 @@
 
 
 
-            let n =5;
-            for(let row=1;row<=n;row++){
-                for(let col=1;col<=n;col++){
-                    if(row==col){
-                        process.stdout.write("* ")
-                    }else{
-                        process.stdout.write(" ")
-                    }
+            // let n =5;
+            // for(let row=1;row<=n;row++){
+            //     for(let col=1;col<=n;col++){
+            //         if(row==col){
+            //             process.stdout.write("* ")
+            //         }else{
+            //             process.stdout.write(" ")
+            //         }
                     
-                }
-                console.log()
+            //     }
+            //     console.log()
                 
-            }
+            // }
+
+            /**
+             *  1
+             *  12
+             *  123
+             *  1234
+             *  12345
+             *   
+             * 
+             * 
+             *  *
+             *  **
+             *  ***
+             *  ****
+             *  *****
+             * 
+             *  1
+             *  11
+             *  111 
+             *  1111
+             *  11111 
+             *  
+             * 
+             *  1
+             *  12
+             *  123
+             *  1234
+             *  12345
+             * 
+             * 
+             * 
+             * 
+             */
+
+            // let n =5;
+            // for(let row=1;row<=n;row++){
+            //     // let one =1;
+            //     let str="";
+            //     for(let col=1;col<=row;col++){
+            //         str=str+col;
+
+            //     }
+            //     str=str+"\n"
+            //     console.log(str)
+            // }
+
+            // let n =5;
+            // for(let row=1;row<=n;row++){
+            //     let str=""
+            //     // let one =1;
+            //     for(let col=1;col<=row;col++){
+            //         // str=str+row;
+            //         // one =one+1;
+
+            //     }
+            //     str=str+"\n"
+            //     console.log(str)
+                
+
+
+
+            // }
+
+            // if(row==n){
+            //     nstr =nstr-1;
+
+            // }
+
+            // 1 2 3 5 8 13 21 ....
 
 
 
 
 
+// let n =5;
+// for(let row=1;row<=n;row++){
+//     for(let col=1;col<=n;col++){
+//         if(row==col || row+col==n+1){
+//             process.stdout.write("* ")
+
+//         }else{
+//             process.stdout.write(" ")
+
+//         }
+        
+//     }
+//     console.log()
+// }
+/**
+ * n-ram-5
+ * row-ram-1
+ * 1<=5 true
+ * col-ram=1
+ * 1<=n true
+ * 1==1 true
+ * 1+1==5+1
+ * 
+ * 
+ * 
+ * 
+ * 
+ */  
+// 0 1 1 2 3 5
 
 
 
+
+let n =10;
+let fn=0;
+let sn=1;
+for(let i=1;i<=n;i++){
+    // console.log(i)
+    console.log(fn);
+    let nn=fn+sn;
+    fn=sn;
+    sn=nn;
+
+}
+
+// 0 1 1 2 
+/**
+ * 
+ * 
+ *             *     * * * *
+*     *
+*     *
+* * * * * * *
+      *     *
+      *     *
+* * * *     *
+ * 
+ *    
+ */
 
 
 
