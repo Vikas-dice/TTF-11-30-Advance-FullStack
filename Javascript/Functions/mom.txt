@@ -1,0 +1,6 @@
+Date 13th feb,2024
+Last Classes - basic js , variables, conditionals, loops, array*
+Task - Functions , es5 ,es6 , array, object , array loop, asyn and asycn code in js (memory)
+
+
+

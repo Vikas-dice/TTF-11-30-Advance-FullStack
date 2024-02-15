@@ -1,0 +1,23 @@
+Date 15th feb , 2024
+
+Last Class - functions , array,
+functions - es5 es6 
+array - forEach
+js function return Undefined 
+
+Functions - Questions 
+ q1- function prime(ll,up){
+    some code 
+ }
+ prime(10,99)
+ prime(100,500)
+
+
+  *
+ ***
+*****
+ ***
+  *
+
+
+88556734734 =>11

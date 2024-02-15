@@ -380,12 +380,67 @@ for(let i=1;i<=n;i++){
 //
 
 
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * 
-* * * 
-* * 
-* 
+// * 
+// * * 
+// * * * 
+// * * * * 
+// * * * * * 
+// * * * * 
+// * * * 
+// * * 
+// * 
+
+
+  
+
+/**  javascript 
+ * -intro js , history
+ * -variables - memory mgmt 
+ * -conditionals (if else else if switch ternary)
+ * -loops ( for while do while for of)
+ * -functions ( inbuilt ,custom function)
+ * -array (1-d,2-d)
+ *- array methods /function (map filter reduce)
+ - string (methods )
+
+ * - object 
+ - objects methods/func - call apply bind
+ - object destructures
+ -spread rest operator
+ -hof
+ -callbacks 
+ -callbacks issues (callback hell, inversion of control)
+ -promises 
+ -promises handle (resolve and reject)
+ - asyn await 
+ - functional programming
+ -oops
+ - this
+ -new keyword
+ -constructor
+ - class and object
+ - prototypes
+ - protypal inheritance
+
+-iterators and generators
+-asyn behaviour of js ( event loop, call stack)
+-js engine 
+-es5 es6 
+
+
+
+
+ * 
+ * 
+ * 
+
+
+
+
+
+
+
+
+
+ */
+
