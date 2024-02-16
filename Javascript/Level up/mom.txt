@@ -1,0 +1,19 @@
+Date 16th feb , 2024
+
+Last Class - Number System 
+Decimal binary octal hexadecimal
+
+786
+binary
+octal
+hexadecimal
+
+
+Decimal - octal,binary,hexadecimal - base devide
+octal, binary,hexa- weight * current base +
+----------------------------------------------------
+HW - obj->func-method-function - this 
+hw- obj-func-method-es6-function -this 
+
+
+
