@@ -1,0 +1,15 @@
+Date 20th feb , 2024
+
+Last class - this(with diff situations) call apply bind 
+---------------------------------------------------------------------------------
+
+Doubts??
+Operators
+
+arithmatic
+logical
+relational
+bitwise
+ternary Operator
+
+
