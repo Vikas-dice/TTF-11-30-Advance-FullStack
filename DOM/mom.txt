@@ -1,0 +1,43 @@
+Date 22nd feb,2024
+
+Last Class - operators , call apply bind , post fix, prefix , unary
+
+-------------------------------------------------------------------------
+Functions , array (1d,2d ),Searching(Linear Seatch, Binary Searching),sorting(quick sort, merge sort )- merge 
+
+--------------------------------------------------------------------------------------------------
+
+DOM , TEST
+
+--------------------------------------------------------------------------
+
+Dom = Document object Model
+Dom manipulate using js -
+
+
+selection - element selection
+change
+event 
+
+document.getelemet
+
+------------
+
+#id{
+
+}
+
+.class{
+
+}
+
+h1{
+
+}
+img{
+
+}
+
+//element content manipulate - textcontent,innerhtml
+
+//css manipulate -

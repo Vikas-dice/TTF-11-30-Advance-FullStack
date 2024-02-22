@@ -1,0 +1,15 @@
+accessing element - usse ye kardo ye hone par
+selection 
+change
+event 
+
+
+modiffy element- innerhtml,textcontent
+modify css- classlist
+
+
+creating and deleting element-dom.creaelt('h1)
+//dom.que('body).appechikld(h1)
+
+
+event handling , event child 
