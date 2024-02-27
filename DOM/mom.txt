@@ -41,3 +41,16 @@ img{
 //element content manipulate - textcontent,innerhtml
 
 //css manipulate -
+
+
+----------------------------------------------
+Date 23rd feb , 2024
+
+Last Class - DOM, HTML Manipulate, CSS Manipulate , selection , change 
+ 
+ - Events, EventListners ,,....surprise test.
+
+
+document.addeventListern(event,callback)
+
+
