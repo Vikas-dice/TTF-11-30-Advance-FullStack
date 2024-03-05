@@ -1,0 +1,18 @@
+Date 1 march,2024
+
+Last Class - functions - number system questions 
+JS the lang - done 
+
+Advance js - Async js - event loop, main call satck , side call stack (callback queue)
+- fetch api
+-axios.get   AJAX
+
+
+
+
+Promises
+callbacks
+async await 
+event loop
+generators
+

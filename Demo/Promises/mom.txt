@@ -1,0 +1,6 @@
+promises-code - asyn type code- side stack-main stack - answer later/no- chit- bydefault -waiting - chit has 2 events - then and catch 
+if date-true- chit-completed and then.
+if no data - catch - waiting - rejected 
+
+
+callback - just a function bas sp[ecial ] jise pass kia gya ho kisi or function m jab wo fun chale tab jo parse kia hua cb h wo chal ske

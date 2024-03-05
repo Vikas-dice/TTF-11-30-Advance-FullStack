@@ -20,19 +20,10 @@ function getSum(b,n1,n2){
         let d=d1+d2+c;
         c=Math.floor(d/b);
         d=Math.floor(d%b);
-
         rv+=d*p;
         p=p*10;
 
-
-
-
     }
-
-
-
-
-
 
     return rv;
 }

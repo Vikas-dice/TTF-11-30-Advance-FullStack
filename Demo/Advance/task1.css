@@ -1,0 +1,20 @@
+#downloadcapsule{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 20px;
+    background-color: #dadada;
+    border-radius: 100px;
+
+
+}
+
+#progressbar{
+    transition: all cubic-bezier(0.165, 0.84, 0.44, 1) ;
+    width: 10%;
+    height: 100%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}

@@ -1,0 +1,10 @@
+constructor function 
+this new 
+prototypal inheritance 
+closures 
+event deligation
+
+
+closures - ek aisa function jo ek dusra fucntion ko return krde usko closure 
++ ek aisa function to jo call stack se khatam ho chuka h tab bhi uski details/variable value tum child function m use kr sko
+

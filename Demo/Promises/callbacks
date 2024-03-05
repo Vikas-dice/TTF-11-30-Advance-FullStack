@@ -1,0 +1,32 @@
+// function abcd(a,b){
+//     b();
+
+// }
+// abcd(1,function(){console.log("callback run");})
+
+//how to use
+
+// function dosomeAsyn task(url,cb){
+//     fetch(url)
+//     .then(raw=>raw.json())
+//     .then(res=>{
+//         callback();
+//     })
+// }
+// dosomeAsyn("urls",function(){
+
+// })
+
+//print name gender emaail
+
+function getData(url,callback){
+    fetch(url)
+    .then(raw=>raw.json())
+    .then(res=>{
+        callback(res)
+    })
+}
+
+getData('https://randomuser.me/api/',function(res){
+    console.log(res.results[0].gender)
+})

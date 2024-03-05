@@ -1,0 +1,11 @@
+array swap
+-----------------
+sum of two arrays
+diff of two arrays
+array reverse 
+array inverse 
+subarray
+subset
+ceil and floor
+first index last index
+

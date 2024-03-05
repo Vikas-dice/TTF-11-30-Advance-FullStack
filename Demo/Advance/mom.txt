@@ -1,0 +1,23 @@
+PI- human - walk,drink,speak
+teacher - walk, drink,speak, teach*
+musician -walk, drink, speak,musician
+
+hum objects create karte hai and kisi ek parent constcrur func ke prototype mei kuch add kar dete h and jab bhi add hota h to wo parent se banne wale sabhi childfren instances ko wo props jo parent ko protype me di gayi thi wo milti h
+
+aisa koi bhi func jisme hm this ka use krre h and use call krte hue new ka usse krre h, wha p ek blank obj ban jata hai
+
+
+closures
+ aisa koi bhi function jo ek dusre func ko return krde .
+
+
+ event deligation - jab aap event lister se kai saare diff elmnt ke event ko handle kre sake
+ event listerner ko parent par lagao and unko id, class, tag name k basis par differiatte task kraye
+
+ hof- aisa koi bhi function jo kisi func ko parameter m accept krle ya ek func ko return krde 
+
+try catch - 1/0 infinite
+
+custom events - mann k event 
+    //how and why
+    
