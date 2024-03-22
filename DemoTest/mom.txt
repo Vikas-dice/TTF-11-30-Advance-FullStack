@@ -1,0 +1,77 @@
+Async Js 
+const sum = (a,b,cb) => { //async
+    console.log(a*b);
+    cb(p,q);
+}
+const multiply=(p,q)=>{ //async
+    console.log(p*q)
+};
+
+const url ="";
+let a;
+let b;
+sum(a,b,multiply);
+
+-----------------------------------------------
+
+validationFastagUser("fastagUrl",("bankurl",()=>{
+    bankDeduct(180);
+    if{
+
+    }else{
+
+    }
+    console.log("Welcome to Merrut-Delhi highway");
+})=>{
+    result = fecth();
+    if(result==="Not sufficent balance");
+    {return(result)}
+    else{proceedTransaction(arg1,arg2,cb3)=>{
+        cb(a1,a2,cb4())
+    }}    
+ });
+checkAvailableBalance();
+
+--------------------------------------------------------
+let ask = new Promise((res, rej)=>{
+    const reposneMessage = bhaiKhaliHai();
+    if(reposneMessage === 'Yes'){
+        res("Haan hai");
+    }else{
+        rej( throw new ERROR("ERROR"))
+    }
+});
+
+ask.then((res,rej)=>{
+    //line1
+    //line2
+}).catch();
+
+let a;
+let b;
+
+
+validateUser()
+.then(checkKYC(val,error))
+.then(fetchBankName())
+.catch()
+.then()
+.then()
+.catch()
+.finally()
+
+
+let c;
+let d;
+----------------------------------
+gec - callstack 
+pq
+fec - later
+1st gec got hit- 
+p1p2p3 415sec
+1st sync code runs 
+el
+
+promise basically works on time execution
+multiple promise - less time priority
+promsie runs after normal code only
